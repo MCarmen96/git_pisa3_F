@@ -1,0 +1,39 @@
+# Ficheros típicos de macOS
+.DS_Store
+.Trashes
+.Spotlight-V100
+.TemporaryItems
+.AppleDouble
+__MACOSX
+.metadata_never_index
+.com.apple.timemachine.donotpresent
+.apdisk
+
+# Ficheros típicos de Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+System Volume Information/
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Ficheros típicos de VSCode
+.vscode/
+*.code-workspace
+
+# Ficheros de configuración de Obsidian
+.obsidian/
+.obsidian.vault/
+
+# Otros (opcional, pero a menudo útil)
+node_modules/
+venv/
+env/
+__pycache__/
+*.log
+*.bak
+*.swp
+*.swo
